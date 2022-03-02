@@ -38,15 +38,3 @@ export function clean(phoneNumber) {
 
     return phonestring
 }
-
-
-    // if (phoneNumber.includes("(")) {
-    //     return phoneNumber = phoneNumber.replace(/[- )(]/g, '')
-    // }
-    // if (phoneNumber.includes(".")) {
-    //     return phoneNumber.split('.').join("")
-    // }
-    // if (phoneNumber.includes(" ")) {
-    //     return phoneNumber.replace(/\s/g, '')
-    // }
-
